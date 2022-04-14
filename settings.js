@@ -12,17 +12,17 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': '335287f0116',//apikey lu
+	'https://zenzapi.xyz': 'sanzychan01',//apikey lu
 }
 
 // Owner
-global.owner = ['6283808840711','6283808840711','6283808840711']
-global.ownernomer = '6283808840711'
+global.owner = ['6283867125785','6283187914581','6283867125785']
+global.ownernomer = '6283867125785'
 global.premium = ['6283808840711']
-global.ownername = 'KIKI VZ'
-global.botname = 'VraaBotz'
-global.footer = '2022 - kiki vz ><'
-global.email = 'vraakeren@gmail.com'
+global.ownername = 'CLARA CANS'
+global.botname = 'ClaraBotz'
+global.footer = 'clarabotz | Ramdhan 2022'
+global.email = 'claracans@gmail.com'
 global.ig = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
 global.region = 'jepang'// bebas
 
@@ -31,8 +31,8 @@ global.myweb = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
 global.sc = 'https://github.com/kikivz/vraabot-MD'
 global.grupowner ='https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa'// GRUP LU 
 // Wm
-global.packname = 'kiki'//BEBAS
-global.author = 'vz'
+global.packname = 'clara'//BEBAS
+global.author = 'botz'
 
 // Thumb & Image random
 global.thumb = fs.readFileSync('./image/kiki.jpg')// jangan di ubah nanti eror
